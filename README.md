@@ -12,40 +12,21 @@
 
 - [A Comprehensive Guide To Product Design](https://www.smashingmagazine.com/2018/01/comprehensive-guide-product-design/) High-level overview of the product design process
 - [Here is how UX Design Integrates with Agile and Scrum](https://medium.com/swlh/here-is-how-ux-design-integrates-with-agile-and-scrum-4f3cf8c10e24) Ideas on how to integrate UX into Scrum
-
-[Only One Deliverable Matters | Big Medium](https://bigmedium.com/ideas/only-one-deliverable-matters.html)
+- [Only One Deliverable Matters | Big Medium](https://bigmedium.com/ideas/only-one-deliverable-matters.html)
 
 ### Conversational Case Studies
 
-[Hyper Island, Industry Research Project 2016 - #irpd16](https://www.dannessler.com/irp/)
-
-Dan's study: Design of interactions for new and no user interfaces
-
-[How we designed it: the Google I/O '18 Action for the Google Assistant](https://medium.com/google-developers/how-we-designed-it-the-google-i-o-18-action-for-the-google-assistant-9370ffbaf9b0)
-
-Designing an action for the Google Assistant 1/2
+- [Hyper Island, Industry Research Project 2016 - #irpd16](https://www.dannessler.com/irp/) Dan's study: Design of interactions for new and no user interfaces
+- [How we designed it: the Google I/O '18 Action for the Google Assistant](https://medium.com/google-developers/how-we-designed-it-the-google-i-o-18-action-for-the-google-assistant-9370ffbaf9b0) Designing an action for the Google Assistant 1/2
 
 ### Conversational Process, Principles and Checklists
 
-[The Ultimate Guide to Chatbots: Why they're disrupting UX and best practices for building](https://medium.muz.li/the-ultimate-guide-to-chatbots-why-theyre-disrupting-ux-and-best-practices-for-building-345e2150b682)
-
-Good one on the why and how of chatbots
-
-[UI of the Future: The Basic Principles of Conversational User Interfaces - Shopify](https://www.shopify.com/partners/blog/conversational-user-interfaces)
-
-Great list of steps and description of elements involved
-
-[How do I get started? - Conversation design process - Conversation design](https://designguidelines.withgoogle.com/conversation/conversation-design-process/how-do-i-get-started.html)
-
-[Conversational UI Principles - Complete Process of Designing a Website Chatbot](https://medium.com/swlh/conversational-ui-principles-complete-process-of-designing-a-website-chatbot-d0c2a5fee376)
-
-Another article on the CUI design process
-
-[Design Framework for Chatbots - Chatbots Magazine](https://chatbotsmagazine.com/design-framework-for-chatbots-aa27060c4ea3)
-
-Description on how to approach the design and writing process
-
-[13 Rules for Conversational User Interface Design](http://blog.rasa.com/13-rules-for-cui-design/)
+- [The Ultimate Guide to Chatbots: Why they're disrupting UX and best practices for building](https://medium.muz.li/the-ultimate-guide-to-chatbots-why-theyre-disrupting-ux-and-best-practices-for-building-345e2150b682) Good one on the why and how of chatbots
+- [UI of the Future: The Basic Principles of Conversational User Interfaces - Shopify](https://www.shopify.com/partners/blog/conversational-user-interfaces) Great list of steps and description of elements involved
+- [How do I get started? - Conversation design process - Conversation design](https://designguidelines.withgoogle.com/conversation/conversation-design-process/how-do-i-get-started.html)
+- [Conversational UI Principles - Complete Process of Designing a Website Chatbot](https://medium.com/swlh/conversational-ui-principles-complete-process-of-designing-a-website-chatbot-d0c2a5fee376) Another article on the CUI design process
+- [Design Framework for Chatbots - Chatbots Magazine](https://chatbotsmagazine.com/design-framework-for-chatbots-aa27060c4ea3) Description on how to approach the design and writing process
+- [13 Rules for Conversational User Interface Design](http://blog.rasa.com/13-rules-for-cui-design/)
 
 ### Flows, Diagrams, Deliverables
 

@@ -2,25 +2,16 @@
 
 ### My Sites
 
-[Conversational UI Tools](https://cui.tools)
-
-My directory of tools and resources, and a job board
+- [Conversational UI Tools](https://cui.tools) My directory of tools and resources, and a job board
 
 ### UX Concept
 
-[Start your designs with a concept - UX Collective](https://uxdesign.cc/start-your-designs-with-a-concept-7270e6b00fcc)
-
-Fabio's reminder about the importance of a design concept
+- [Start your designs with a concept - UX Collective](https://uxdesign.cc/start-your-designs-with-a-concept-7270e6b00fcc) Fabio's reminder about the importance of a design concept
 
 ### UX Process
 
-[A Comprehensive Guide To Product Design](https://www.smashingmagazine.com/2018/01/comprehensive-guide-product-design/)
-
-High-level overview of the product design process
-
-[Here is how UX Design Integrates with Agile and Scrum](https://medium.com/swlh/here-is-how-ux-design-integrates-with-agile-and-scrum-4f3cf8c10e24)
-
-Ideas on how to integrate UX into Scrum
+- [A Comprehensive Guide To Product Design](https://www.smashingmagazine.com/2018/01/comprehensive-guide-product-design/) High-level overview of the product design process
+- [Here is how UX Design Integrates with Agile and Scrum](https://medium.com/swlh/here-is-how-ux-design-integrates-with-agile-and-scrum-4f3cf8c10e24) Ideas on how to integrate UX into Scrum
 
 [Only One Deliverable Matters | Big Medium](https://bigmedium.com/ideas/only-one-deliverable-matters.html)
 
